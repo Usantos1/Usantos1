@@ -57,9 +57,9 @@ Do orçamento ao relatório, e também o time.
 
 ## Outras plataformas
 
-- **[Matti Academy](https://mattiacademy.vercel.app)** — formação online com
-  área de membros (cursos, aulas em vídeo, progresso) e painel
-  administrativo. Supabase: Postgres, Auth e Edge Functions.
+- **Matti Academy** — formação online com área de membros (cursos, aulas em
+  vídeo, progresso) e painel administrativo. Supabase: Postgres, Auth e Edge
+  Functions.
 - Sistemas sob medida para clientes — CRM, captação de leads, diagnóstico
   conversacional e painel, em produção.
 
