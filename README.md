@@ -70,6 +70,26 @@ acima é testado antes de virar produto.
 
 ---
 
-**Stack:** TypeScript, React, Vite, Tailwind, Node, Express, Prisma,
-PostgreSQL, Supabase · Python, FFmpeg, ONNX Runtime e um motor de render
-próprio no ATIVAVID.
+## Stack
+
+**Front-end** · TypeScript, React, Vite, Tailwind, shadcn/ui sobre Radix,
+TanStack Query e Router, React Hook Form + Zod, Zustand, Recharts, Framer
+Motion, i18next
+
+**Back-end** · Node com Express e Fastify, Prisma, PostgreSQL, Supabase
+(Auth e Edge Functions), JWT com refresh e multi-tenant, Helmet, rate
+limiting, node-cron, Docker
+
+**Mobile** · Capacitor (iOS e Android) no Ativa FIX
+
+**Integrações** · Meta Ads, Google Ads por OAuth, WhatsApp e Instagram,
+Efí (Pix e cobrança), Stripe, ElevenLabs
+
+**No ATIVAVID** · Python, FFmpeg, NumPy, Pillow, OpenCV, ONNX Runtime
+(recorte de pessoa), Remotion como referência de desenho e um **motor de
+render próprio** que a substitui, transcrição local com faster-whisper,
+empacotamento com Inno Setup e atualização automática
+
+**Do dia a dia** · PDF e planilha no navegador (jsPDF, html2canvas, xlsx),
+código de barras e QR, editor de texto rico, mapas com Leaflet, testes com
+Vitest e Playwright, deploy em VPS, Cloudflare e Vercel
